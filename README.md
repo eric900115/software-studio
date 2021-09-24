@@ -1,1 +1,14 @@
 # software-studio
+- lab1 HTML
+- lab2 HTML & CSS Quiz - First Blog
+- lab3 Color Game : Component-based
+- lab4 Color Game: Hard / Nightmare mode
+- lab5 Tic-Tac-Toe: Component-based
+- lab6 Bootstrap (Flexbox) & Responsive design
+- lab7 Weathermood : react-today
+- lab8 WeatherMood: react-forecast
+- lab9 Weathermood: react-post
+- lab10 WeatherMoodServer: file-todo & AWS
+- lab11 WeatherMood: db-large-todo
+- lab12 WeatherMood: redux-post
+- lab13 Weathermood: authentication with Amplify
